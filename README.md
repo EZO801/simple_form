@@ -1,4 +1,5 @@
 ![Simple Form Logo](https://raw.github.com/plataformatec/simple_form/master/simple_form.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fsimple_form.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fsimple_form?ref=badge_shield)
 
 By [Plataformatec](http://plataformatec.com.br/).
 
@@ -1080,3 +1081,6 @@ MIT License. Copyright 2009-2018 Plataformatec. http://plataformatec.com.br
 
 You are not granted rights or licenses to the trademarks of the Plataformatec, including without
 limitation the Simple Form name or logo.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fsimple_form.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fsimple_form?ref=badge_large)
